@@ -1,4 +1,4 @@
-<a href="GP1200_User Guide.pdf" download>Download User Guid for GP1200 <img src="../../images/download.png"></a>
+<a href="GP1200_User Guide.pdf" download>Download User Guide for GP1200 <img src="../../images/download.png"></a>
 
 ---
 ## Overview

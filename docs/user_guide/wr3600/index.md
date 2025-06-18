@@ -1,5 +1,5 @@
 
-<a href="WR3600_User Guide.pdf" download>Download WR3600 User Guide ![alt text](download-1.png)</a>
+<a href="WR3600_User Guide.pdf" download>Download User Guide for WR3600 <img src="../../images/download.png"></a>
 
 ---
 ## Overview
